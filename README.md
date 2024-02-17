@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba
+Este es un protecto de prueba de como crear un repositorio y clonarlo desde git hub a mi escritorio local
